@@ -1,5 +1,4 @@
 # LiveWall
-=======
 # Live Wallpaper System for Hyprland
 
 A lightweight, efficient live wallpaper engine for Hyprland using `mpvpaper`. It automatically pauses the live wallpaper when a window is active to save resources, and includes a `rofi` script to easily select your wallpaper on the fly.
