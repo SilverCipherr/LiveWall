@@ -3,6 +3,12 @@
 
 A lightweight, efficient live wallpaper engine for Hyprland using `mpvpaper`. It automatically pauses the live wallpaper when a window is active to save resources, and includes a `rofi` script to easily select your wallpaper on the fly.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/023addb1-1ad5-458e-9839-2453fdfb5a60
+
+
 ##  Features
 - **Auto-pause functionality:** Pauses the live wallpaper when a window is active (saving CPU/GPU).
 - **Rofi integration:** Easy graphical UI to switch wallpapers.
