@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # LiveWall
-Live Wallpaper picker for Arch Hyprland.
 =======
 # Live Wallpaper System for Hyprland
 
@@ -165,4 +163,3 @@ N.B: This is my first Arch project, so I'm not an expert. I'm just sharing what 
 ---
 
 <div align="center">Made By <strong>Prottay</strong> for <strong>Arch btw</strong> 🐧</div>
->>>>>>> adb1b39 (Initial Commit)
